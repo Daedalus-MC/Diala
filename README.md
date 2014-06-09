@@ -37,4 +37,7 @@ Finding and understanding the duping machines of The_Dark_Fubar, Crabby, etc, al
 Helping out Rocket and Tim finding and jailing X-Ray”ers”, thieves, and greifers.  
 Brian with testing of the upcoming plugin, StickyLocks, and making sure it is compatible with the bukkit plugins we currently use.
 	
-	For these reasons, I bleeive that I have proved myself to be a trustworthy person, and that when I say I will not hack again, that means I will.  Through my past actions, I have proved that I have the servers best interests at heart, and that though I screwed up this time, I will not again.
+	For these reasons, I believe that I have proved myself to be a trustworthy person, and that when I say I will not hack again, that means I will.  Through my past actions, I have proved that I have the servers best interests at heart, and that though I screwed up this time, I will not do so again.
+	
+	Thank-you
+	
