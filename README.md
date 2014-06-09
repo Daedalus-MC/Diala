@@ -35,5 +35,5 @@ I apologize the (and accept all responsibility) of the fact that I was playing w
 	I believe that I should be unbanned because I have helped the server through issues and problems:
 Finding and understanding the duping machines of The_Dark_Fubar, Crabby, etc, along with helping provide eye witness accounts of how it started, and when.  
 Helping out Rocket and Tim finding and jailing X-Ray”ers”, thieves, and greifers.  
-Brian with testing of the upcoming plugin, StickyLocks, and making sure it is compatible with the bucket plugins we currently use.
+Brian with testing of the upcoming plugin, StickyLocks, and making sure it is compatible with the bukkit plugins we currently use.
 	
