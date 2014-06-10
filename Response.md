@@ -10,4 +10,5 @@ I do not believe myself to be above the rules, or better than anyone else.  I go
 I do realize that I shouldn’t have used it, even with the nonchalance that staff showed towards it (Zilla said once that I shouldn’t use it, with a sarcastic tone, Daniiiiii kicked me, and didn’t say anything past then, and I got told by rocket to use it.)  I do take responsibility for my actions, and I hope to have cleared up any confusion with this.
 
 Thank-you,
+
 Robert A. Cousineau
